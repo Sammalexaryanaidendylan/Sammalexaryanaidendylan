@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+     <meta charset="utf-8">  
+     <meta name="viewport" content="width=device-width,initial-scale=1.0">
+     <title>Samuel Ndlovu    WDD 130</title>
+    </head>    
+  <body> 
+  <header>
+    <nav>
+    <a href="#">home</a>
+    <a href="wwr/">Rafting site</a>
+    <a href="wwr/site-plan-rafting.html">Rafting Site Plan</a>
+  </nav>
+ </header>
+ <main>
+  <h1>Samuel Ndlovu  WDD  130</h1>
+  <img src="images/profile.jpg" alt="hello, my name is Samuel Ndlovu" width="200">
+  <p>Hello! My Name is Samuel Ndlovu and I am from Bulawayo, Zimbabwe I enjoy Watching Tv.</p>
+ </main>
+ <footer>
+  <p>@2024 Samuel ndlovu Bulawayo, Zimbabwe </p>
+  </footer>
+ </body>
+</html>
